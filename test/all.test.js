@@ -15,9 +15,6 @@ chai.config.includeStack = true;
 
 // Tests
 
-/* jshint expr: true */
-/* global describe, it */
-
 describe('Tests', function() {
 	it.skip('all', function() {
 		expect({{nameCamel}}).to.be.ok;
