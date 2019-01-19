@@ -8,7 +8,7 @@
 // Modules
 const chai = require('chai'),
 	{expect} = chai,
-	{{nameCamel}} = require('../lib/');
+	{{nameCamel}} = require('../index');
 
 // Init
 chai.config.includeStack = true;
