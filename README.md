@@ -1,5 +1,3 @@
-# {{name}}.js
-
 # {{description}}
 
 ## Current status
@@ -12,6 +10,8 @@
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/{{name}}/master.svg)](https://coveralls.io/r/overlookmotel/{{name}})
 
 ## Usage
+
+This module is under development and not ready for use yet.
 
 ## Tests
 
@@ -30,6 +30,5 @@ If you discover a bug, please raise an issue on Github. https://github.com/overl
 Pull requests are very welcome. Please:
 
 * ensure all tests pass before submitting PR
-* add an entry to changelog
 * add tests for new features
 * document new functionality/API additions in README
