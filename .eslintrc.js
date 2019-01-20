@@ -29,6 +29,7 @@ module.exports = {
 		'valid-jsdoc': ['error'],
 
 		// Various other rules
+		'eqeqeq': ['error', 'always', {null: 'ignore'}],
 		'no-use-before-define': ['error', {functions: false}],
 		'no-unused-expressions': ['error'],
 		'no-var': ['error'],
