@@ -16,6 +16,8 @@
   "dependencies": {
   },
   "devDependencies": {
+    "@overlookmotel/eslint-config": "^1.0.0",
+    "@overlookmotel/eslint-config-tests": "^1.0.2",
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
     "cross-env": "^5.2.0",
