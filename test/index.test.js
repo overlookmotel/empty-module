@@ -6,17 +6,15 @@
 'use strict';
 
 // Modules
-const chai = require('chai'),
-	{expect} = chai,
-	{{nameCamel}} = require('../index');
+const {{nameCamel}} = require('../index');
 
 // Init
-chai.config.includeStack = true;
+require('./utils');
 
 // Tests
 
-describe('Tests', function() {
-	it.skip('all', function() {
-		expect({{nameCamel}}).to.be.ok;
+describe('tests', () => {
+	it.skip('all', () => { // eslint-disable-line jest/no-disabled-tests
+		expect({{nameCamel}}).not.toBeUndefined();
 	});
 });
