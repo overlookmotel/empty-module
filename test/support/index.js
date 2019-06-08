@@ -1,6 +1,6 @@
 /* --------------------
  * {{name}}
- * Tests utilities
+ * Tests set-up
  * ------------------*/
 
 'use strict';

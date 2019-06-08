@@ -9,7 +9,7 @@
 const {{nameCamel}} = require('../index');
 
 // Init
-require('./utils');
+require('./support');
 
 // Tests
 
