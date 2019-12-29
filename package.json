@@ -30,7 +30,7 @@
     "jest-extended": "^0.11.2"
   },
   "keywords": [
-    {{keywords}}
+    "{{keywords}}"
   ],
   "scripts": {
     "test": "npm run lint && npm run test-main",
