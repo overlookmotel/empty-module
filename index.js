@@ -1,5 +1,6 @@
 /* --------------------
  * {{name}} module
+ * Entry point
  * ------------------*/
 
 'use strict';

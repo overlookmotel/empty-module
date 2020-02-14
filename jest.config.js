@@ -1,3 +1,8 @@
+/* --------------------
+ * {{name}} module
+ * Jest config
+ * ------------------*/
+
 'use strict';
 
 module.exports = {

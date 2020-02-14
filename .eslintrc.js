@@ -1,3 +1,8 @@
+/* --------------------
+ * {{name}} module
+ * ESLint config
+ * ------------------*/
+
 'use strict';
 
 module.exports = {
