@@ -1,7 +1,5 @@
 [![NPM version](https://img.shields.io/npm/v/{{name}}.svg)](https://www.npmjs.com/package/{{name}})
 [![Build Status](https://img.shields.io/github/workflow/status/overlookmotel/{{name}}/Test.svg)](https://github.com/overlookmotel/{{name}}/actions)
-[![Dependency Status](https://img.shields.io/david/overlookmotel/{{name}}.svg)](https://david-dm.org/overlookmotel/{{name}})
-[![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/{{name}}.svg)](https://david-dm.org/overlookmotel/{{name}})
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/{{name}}/master.svg)](https://coveralls.io/r/overlookmotel/{{name}})
 
 # {{description}}
