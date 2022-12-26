@@ -15,6 +15,6 @@ require('./support/index.js');
 
 describe('tests', () => {
 	it.skip('all', () => { // eslint-disable-line jest/no-disabled-tests
-		expect({{nameCamel}}).not.toBeUndefined();
+		expect({{nameCamel}}).toBeDefined();
 	});
 });
