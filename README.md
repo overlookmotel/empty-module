@@ -8,7 +8,7 @@
 
 This module is under development and not ready for use yet.
 
-Requires NodeJS v16 or later.
+Requires NodeJS v18 or later.
 
 ## Tests
 
